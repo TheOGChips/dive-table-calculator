@@ -1,0 +1,15 @@
+[package]
+name = "dive-table-calculator"
+version = "0.1.0"
+edition = "2021"
+authors = ["Chris Swindell <swindell.christian.g@gmail.com"]
+license = "GPL-3.0-or-later"
+#description = ""
+#repository = ""
+readme = "README.md"
+keywords = ["cli"]
+categories = ["command-line-utilities"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
